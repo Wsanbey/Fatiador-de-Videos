@@ -14,16 +14,16 @@ Ferramenta para cortar e fatiar videos em partes menores.
 - MoviePy/FFmpeg
 
 ## Uso
-`python
+```python
 python fatiar.py --input video.mp4 --start 00:01:00 --end 00:02:00
-`
+```
 
 ## Instalacao
-`ash
+```bash
 git clone https://github.com/Wsanbey/Fatiador-de-Videos.git
 cd Fatiador-de-Videos
 pip install -r requirements.txt
-`
+```
 
 ## Licenca
 MIT
